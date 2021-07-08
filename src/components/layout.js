@@ -29,11 +29,11 @@ const Layout = props => {
               <li className="nav-home nav-current" role="menuitem">
                 <Link to={`/`}>Home</Link>
               </li>
-              <li className="nav-about" role="menuitem">
+              {/* <li className="nav-about" role="menuitem">
                 <Link to={`/about`}>About</Link>
-              </li>
+              </li> */}
               <li className="nav-elements" role="menuitem">
-                <Link to={`/elements`}>Elements</Link>
+                <Link to={`/contact`}>Contact</Link>
               </li>
             </ul>
           </nav>
@@ -45,29 +45,13 @@ const Layout = props => {
           <div className="site-head-right">
             <div className="social-links">
               <a
-                href="https://www.facebook.com"
-                title="Facebook"
+                href="https://www.instagram.com/andrewfschorr"
+                title="Instagram"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Facebook
+                Instagram
               </a>
-              <a
-                href="https://twitter.com"
-                title="Twitter"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Twitter
-              </a>
-              <Link
-                to={`/rss.xml`}
-                title="RSS"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                RSS
-              </Link>
             </div>
           </div>
         </div>
@@ -78,15 +62,7 @@ const Layout = props => {
         </div>
       </main>
       <footer className="site-foot">
-        &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
-        Built with{" "}
-        <a
-          href="https://gatsbyjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Gatsby
-        </a>
+        &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link>
       </footer>
     </div>
   )
