@@ -1,11 +1,11 @@
 ---
 title: Whisky Barrel
-date: "2000-05-07"
-thumbnail: ./cover-photo1.jpg
+date: "2300-01-01"
+thumbnail: ./cover-photo2.jpg
 description: Schorrs Are Not Chuggers
 ---
 
-Barrel ordered from a now defunct company with terrible yelp reviews 🤕
+###### Barrel ordered from a now defunct company with terrible yelp reviews 🤕
 
 
 ![product 1](./product.jpg)

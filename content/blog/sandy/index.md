@@ -5,7 +5,7 @@ thumbnail: ./cover-photo.jpg
 description: A Hastings On Hudson special.
 ---
 
-Table ordered from <a href="https://www.etsy.com/shop/MoseyeGraphics" target="_blank">MoseyeGraphics Etsy Shop</a>.
+###### Table ordered from <a href="https://www.etsy.com/shop/MoseyeGraphics" target="_blank">MoseyeGraphics Etsy Shop</a>.
 
 ![Full Table](./product-full.jpg)
 ![Full Table](./product-sam.jpg)

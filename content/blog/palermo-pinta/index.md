@@ -5,7 +5,7 @@ thumbnail: ./covershot.jpg
 description: Can't have a warm drink
 ---
 
-Koozies ordered from CustomInk.com, Cartoonist found on Fiverr.com
+###### Koozies ordered from CustomInk.com, Cartoonist found on Fiverr.com
 
 
 ![Full Table](./product-front.jpg)
