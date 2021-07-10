@@ -1,6 +1,6 @@
 ---
 title: Alloverprint Shirt
-date: "1006-01-01"
+date: "2600-01-01"
 thumbnail: ./coverphoto1.jpg
 description: For the bday boy
 ---

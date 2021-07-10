@@ -1,6 +1,6 @@
 ---
 title: Beruit Table
-date: "3000-05-07"
+date: "7000-01-01"
 thumbnail: ./cover-photo.jpg
 description: A Hastings On Hudson special.
 ---

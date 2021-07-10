@@ -1,6 +1,6 @@
 ---
 title: WBB Shirt
-date: "2200-01-01"
+date: "3000-01-01"
 thumbnail: ./coverphoto.jpg
 description: White Bottle Boyz
 ---

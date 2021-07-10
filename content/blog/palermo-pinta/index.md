@@ -1,6 +1,6 @@
 ---
 title: Wedding Koozie
-date: "3000-05-07"
+date: "5000-01-01"
 thumbnail: ./covershot.jpg
 description: Can't have a warm drink
 ---
